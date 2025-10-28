@@ -89,7 +89,7 @@ const enTranslations = {
   "footer.connect.title": "Connect With Us",
   "footer.connect.description": "Follow us on social media for updates, promotions, and culinary inspiration.",
   "footer.copyright": "© 2024 Sri Friends and Flavours. All rights reserved.",
-  "footer.developer": "Designed and developed by G V R Nishchal Reddy",
+  "footer.developer": "Designed and developed by G V R Nishchal Reddy and Ishitha Isukapalli",
 
   // Language switcher
   "language.english": "English",
